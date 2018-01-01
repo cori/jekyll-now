@@ -4,12 +4,16 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I'm cori schlegel, currently a Member of Technical Staff at Fog Creek Software on the Infrastructure and Operations team
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+Nothing much to say here right now....
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[cori.schlegel@gmail.com](mailto:cori.schlegel@gmail.com)
+
+or
+
+[twitter:cori](https://twitter.com/cori)
