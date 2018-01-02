@@ -3,12 +3,13 @@ layout: no title post
 ---
 
 <article class="post">
-  <div class="entry">
-    {{ content }}
-  </div>
 
   <div class="date">
-    Written on {{ page.date | date: "%B %e, %Y" }}
+    <h2>{{ page.date | date: "%B %e, %Y" }}</h2>
+  </div>
+
+  <div class="entry">
+    {{ content }}
   </div>
 
   {% include disqus.html %}
